@@ -1,0 +1,17 @@
+﻿<Window x:Class="TestWpf.PictureWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWpf"
+        mc:Ignorable="d"
+        Title="PictureWindow" Height="300" Width="300" Closing="Closing_Window">
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Image Name="pic"/>
+        <Button  Grid.Row="1" Content="閉じる" Click="Close_Click"/>
+    </Grid>
+</Window>

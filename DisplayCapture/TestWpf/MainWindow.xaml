@@ -1,0 +1,24 @@
+﻿<Window x:Class="TestWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="crid">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <DataGrid Name="hWndData" Grid.Row="0" AutoGenerateColumns="False" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ウィンドウ名" Width="100" Binding="{Binding WindowName,Mode=OneWay}"/>
+                <DataGridTextColumn Header="クラス名" Binding="{Binding ClassName,Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Row="1" Content="再読み込み" Width="60" Height="30" HorizontalAlignment="Left" Margin="20,0,0,0" Click="Road_Click"></Button>
+        <Button Grid.Row="1" Content="キャプチャー" Width="60" Height="30" HorizontalAlignment="Right" Margin="0,0,20,0" Click="Button_Click"></Button>
+        
+    </Grid>
+</Window>

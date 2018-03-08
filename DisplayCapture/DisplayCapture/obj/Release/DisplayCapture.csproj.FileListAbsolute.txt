@@ -1,0 +1,16 @@
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.dll
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.dll
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\bin\Release\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Release\DisplayCapture.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\DisplayCapture\obj\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\DisplayCapture\obj\Debug\DisplayCapture.pdb

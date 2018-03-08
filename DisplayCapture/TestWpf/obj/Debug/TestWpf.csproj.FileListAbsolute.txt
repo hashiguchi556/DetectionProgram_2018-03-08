@@ -1,0 +1,114 @@
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\DisplayCapture\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\Visual Studio 2017\Projects\Rensha\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\GitHub\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\DisplayCapture\DisplayCapture\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector1\DisplayCapture\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.dll
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\bin\Debug\DisplayCapture.pdb
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.csprojResolveAssemblyReference.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\PictureWindow.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\App.g.cs
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\PictureWindow.baml
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.Cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\works\Documents\学習用\2年後期\ディジタル信号処理\vs\detector2\DisplayCapture\TestWpf\obj\Debug\TestWpf.pdb
